@@ -5,11 +5,7 @@ come avrete capito dal titolo ho creato una traduzione italiana di Cult of the L
 E' assolutamente in uno stadio iniziale per cui vi prego di leggere quanto segue. 
 
 ## Importante! 
-Essendo una traduzione per lo più automatica (con per ora solo circa il 10% di frasi rivisitate a mano) sappiate che [b]non accetto critiche se alcune (o molte!) frasi non hanno alcun senso. [/b]
-[u]Sono bene accette [/u],invece ,segnalazioni di queste ultime di modo che si possano correggere.
-Ci sto lavorando ma il tempo e di conseguenza la voglia sono tiranni!
-
-A tal proposito ho creato un [FILE EXCEL](https://1drv.ms/x/s!Ao81reUujmbCs-V3KOFRG1KXal11Ug?e=6PPw5x) con la colonna delle traduzioni manuali editabile da chiunque!
+Ho creato un [FILE EXCEL](https://1drv.ms/x/s!Ao81reUujmbCs-V3KOFRG1KXal11Ug?e=6PPw5x) con la colonna delle traduzioni manuali editabile da chiunque!
 
 
 ##### NOTA 
